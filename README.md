@@ -1,11 +1,11 @@
-### owner: Jiaming Shen, Ellen Wu, Dongming Lei
+### AutoPhrase Pipeline
 
-This folder contains scripts to 1) process raw text corpus into a standard formatted file for feature extraction, and 2) to perform key term extraction. 
+This folder contains scripts to 1) process raw text corpus and clean it, and 2) perform phrase extraction using AutoPhrase. 
 
 First, you need to have [SpaCy](https://spacy.io/usage/) installed:
 
 ```
-$ pip3 install -U spacy
+$ pip3 install -U spacy==2.3.9
 $ python3 -m spacy download en
 ```
 
@@ -24,7 +24,7 @@ For example, if your corpus_name is called "DBLP" and you want preprocess the da
 put the raw text corpus in "../../data/DBLP/source/corpus.txt". Then, you can type the following command:
 
 ```
-$ ./corpusProcess_new.sh DBLP 8
+$ ./corpusProcess_new.sh dblp 8
 ```
 
 
