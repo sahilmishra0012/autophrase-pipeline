@@ -1,4 +1,4 @@
-### AutoPhrase Pipeline
+# AutoPhrase Pipeline
 
 This folder contains scripts to 1) process raw text corpus and clean it, and 2) perform phrase extraction using AutoPhrase. 
 
