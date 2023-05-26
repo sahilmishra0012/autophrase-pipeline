@@ -27,6 +27,9 @@ put the raw text corpus in "../../data/DBLP/source/corpus.txt". Then, you can ty
 $ ./corpusProcess_new.sh dblp 8
 ```
 
+### Output File
+
+Output can be found at data/intermediate/AutoPhrase.txt
 
 
 
