@@ -1,0 +1,254 @@
+0.9542007517	query language
+0.9483323465	data acquisition
+0.9467276070	relational database
+0.9451345981	knowledge management
+0.9407125247	relational databases
+0.9396774758	web applications
+0.9391895562	information retrieval
+0.9368071639	data integration
+0.9363528409	tcp ip
+0.9352099984	database design
+0.9352034323	programming language
+0.9335051160	database management
+0.9329867695	petri nets
+0.9294614461	relational model
+0.9277360842	data structures
+0.9272009916	data quality
+0.9271334509	data mining
+0.9267737266	programming languages
+0.9250158718	artificial intelligence
+0.9240189003	temporal logic
+0.9222215898	virtual reality
+0.9220879708	concurrency control
+0.9210178202	natural language
+0.9192261166	logic programming
+0.9187419136	data management
+0.9162134751	neural networks
+0.9152411588	data warehousing
+0.9149238832	machine learning
+0.9143375056	data warehouse
+0.9117178938	world wide web
+0.9101487879	expert systems
+0.9095060521	information extraction
+0.9082569874	distributed database
+0.9075419464	optical flow
+0.9052041472	object oriented programming
+0.9049416073	open source
+0.9048280624	mesh model
+0.9031648125	object oriented
+0.9031106414	database management systems
+0.9018736287	electronic commerce
+0.8993940269	natural language processing
+0.8961099802	modeling language
+0.8959467412	semantic web
+0.8910826127	database systems
+0.8908589912	information technology
+0.8890632347	image registration
+0.8865426184	transaction processing
+0.8858714201	business process
+0.8855932840	information modeling
+0.8834164507	software development
+0.8790167621	user interface
+0.8740603243	range images
+0.8737612760	range image
+0.8686572067	chance discovery
+0.8678623072	modern compiler
+0.8669469571	graphics hardware
+0.8646835315	cardinality constraints
+0.8643146185	information systems
+0.8622722000	structured light
+0.8596106374	query processing
+0.8587184839	image sequences
+0.8573141844	data sets
+0.8558598545	multiple range images
+0.8546302446	color images
+0.8528885455	motion estimation
+0.8510300240	range image registration
+0.8485721784	multimedia databases
+0.8482908325	management systems
+0.8478727722	pose estimation
+0.8459008000	virtual environments
+0.8437568615	knowledge discovery
+0.8426127954	multiple view
+0.8424523287	human body
+0.8412406303	integrity constraints
+0.8394457742	surface reconstruction
+0.8385066252	incomplete information
+0.8372712900	video sequences
+0.8360816462	data types
+0.8346089012	query optimization
+0.8343640171	wide web
+0.8341981945	theorem proving
+0.8317516218	logic programs
+0.8315214955	surface normal
+0.8284623460	high performance
+0.8283577692	oriented database
+0.8268636473	object relational
+0.8262710130	feature points
+0.8225317890	view synthesis
+0.8171773287	indexing techniques
+0.8168615950	knowledge based
+0.8153578946	surface normals
+0.8145785704	index structures
+0.8134055957	fr die
+0.8097607611	free form
+0.8086403858	visual hull
+0.8078470381	multidimensional databases
+0.8058957955	body shape
+0.8039604638	high quality
+0.8018764229	data structure
+0.7997483098	moving objects
+0.7994502642	content based
+0.7988633245	paper proposes
+0.7983938967	high level
+0.7975712103	multiple views
+0.7960539740	support systems
+0.7954050582	depth map
+0.7949221036	range data
+0.7944670694	3rd edition
+0.7910826211	von web anwendungen
+0.7896000043	object oriented databases
+0.7892551010	case study
+0.7885385031	feature based
+0.7883115984	reference manual
+0.7869077650	compiler implementation
+0.7838508027	ground truth
+0.7829598964	closest point
+0.7826834562	large scale
+0.7809605691	based approach
+0.7803547339	eine einfhrung
+0.7790478563	ontology based
+0.7727388556	multi view
+0.7721342785	paper describes
+0.7675675813	image based
+0.7634494783	oriented programming
+0.7619866108	multi resolution
+0.7586260490	paper presents
+0.7560643605	2nd edition
+0.7547812978	agent based
+0.7506490079	component based
+0.7505356052	decision support
+0.7491149930	multi camera
+0.7485259052	multiple range
+0.7463226998	multi agent
+0.7344931600	experimental results
+0.7329205115	high resolution
+0.7298283941	tcl and tk
+0.7259923602	real world
+0.7247134621	web based
+0.7209243187	web anwendungen
+0.7078840286	e commerce
+0.6909911590	iterative closest
+0.6827901902	c + +
+0.6493368213	method is based
+0.6282402647	world wide
+0.6196283304	analysis and design
+0.5939655593	shape from shading
+0.5841606938	the proposed method
+0.5779394718	tla +
+0.5696859984	shape from silhouette
+0.5690918658	structure from motion
+0.5646302640	three dimensional
+0.5610405831	an object oriented database
+0.5595456385	von web
+0.5574811002	synthetic and real
+0.5546197758	surface reconstruction from
+0.5245182402	state of the art
+0.4951576677	design and implementation
+0.4932019012	3 d
+0.4844614279	computer science
+0.4828183276	proposed method
+0.4760991391	object oriented database system
+0.4545514175	from a single
+0.4465433377	real time
+0.4464600316	this paper presents
+0.4451823124	this paper describes
+0.4417182642	file system
+0.4379005099	view stereo
+0.4256997116	a novel method
+0.4253104155	in the literature
+0.4164817256	leads to
+0.4107717238	operating system
+0.4099955950	a new approach
+0.4095130833	from multiple
+0.4085740903	our method
+0.4061151615	on line
+0.4009261777	based on
+0.3976224457	has been
+0.3912773430	active database
+0.3905883476	focuses on
+0.3870295910	method is based on
+0.3870020024	our algorithm
+0.3869277969	computer graphics
+0.3763273772	we present
+0.3751614930	introduction to
+0.3665662875	second edition
+0.3609177866	we develop
+0.3596795783	this book
+0.3592987362	a large number of
+0.3581480581	into account
+0.3571061795	propose a new
+0.3516948383	this chapter
+0.3503864506	computer vision
+0.3494516755	compared with
+0.3486572121	does not
+0.3471490935	our approach
+0.3454739881	rather than
+0.3437575466	with respect to
+0.3402021556	in this paper
+0.3385838968	a set of
+0.3360498980	we discuss
+0.3352210818	rely on
+0.3322996562	propose a novel
+0.3313441867	have developed
+0.3265880169	deal with
+0.3235375696	such as
+0.3203417704	makes it
+0.3186022766	will be
+0.3163931125	by means of
+0.3158380839	at the same
+0.3117468482	focus on
+0.3100752758	in the context of
+0.3088177778	we focus on
+0.3072554280	can be
+0.3029292767	this paper
+0.2990927988	been proposed
+0.2982782176	as well as
+0.2961444868	results show
+0.2950761488	are discussed
+0.2947629803	in order to
+0.2943313539	derived from
+0.2940197202	in the presence of
+0.2934445791	are presented
+0.2900542602	is presented
+0.2887202123	have been
+0.2880853026	we propose
+0.2863750085	we demonstrate
+0.2851983737	an important
+0.2833153824	we address
+0.2829369438	it is possible to
+0.2793069274	be used
+0.2776294855	we introduce
+0.2759408113	an overview
+0.2741942476	is introduced
+0.2701927814	we show that
+0.2676946493	an initial
+0.2662380354	should be
+0.2637470835	do not
+0.2633231234	we propose a
+0.2629069868	an introduction to
+0.2622677308	we present a new
+0.2609304553	well known
+0.2562550335	can be used
+0.2527759594	not only
+0.2417257422	we propose an
+0.2261826434	demonstrate that
+0.2201651540	show how
+0.2182369987	but also
+0.2118940934	an introduction
+0.2115399575	we consider
+0.2086193401	may be
+0.2058389213	we describe
+0.2045606016	we show
+0.1932219602	as well
+0.1874116620	show that
